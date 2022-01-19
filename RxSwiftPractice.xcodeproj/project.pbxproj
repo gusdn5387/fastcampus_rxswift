@@ -61,6 +61,7 @@
 		B73E163E2798603C00D5A9F3 /* RxSwiftPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxSwiftPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B73E164B2798613200D5A9F3 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B73E164C27986B3200D5A9F3 /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B73E164D279873A800D5A9F3 /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F3775F48CACE1C2A235D5F0D /* Pods-RxSwiftPractice-RxSwiftPracticeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftPractice-RxSwiftPracticeUITests.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftPractice-RxSwiftPracticeUITests/Pods-RxSwiftPractice-RxSwiftPracticeUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		FB433916663D02E43673C3E4 /* Pods_RxSwiftPractice_RxSwiftPracticeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftPractice_RxSwiftPracticeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -121,6 +122,7 @@
 			children = (
 				B73E164B2798613200D5A9F3 /* Observable.playground */,
 				B73E164C27986B3200D5A9F3 /* Traits.playground */,
+				B73E164D279873A800D5A9F3 /* Subject.playground */,
 				B73E161A2798603C00D5A9F3 /* RxSwiftPractice */,
 				B73E16312798603C00D5A9F3 /* RxSwiftPracticeTests */,
 				B73E163B2798603C00D5A9F3 /* RxSwiftPracticeUITests */,
